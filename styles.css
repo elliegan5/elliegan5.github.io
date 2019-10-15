@@ -4,7 +4,7 @@
 body {
     transition: all 1.5s ease-in;
 
-    color: thistle;
+    color: #222;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 10px;
